@@ -1,5 +1,6 @@
 # ThetaSequencesInREM
 Hippocampal theta sequences in REM sleep during spatial learning
+doi: https://doi.org/10.1101/2021.04.15.439854
 
 Download the files sleep_decodes.html and wake_decodes.html, and open in browser (eg. Chrome).
 
